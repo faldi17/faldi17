@@ -1,30 +1,83 @@
-## Hi there, I'm Faldi 😐
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=13C3A0FF&lines=Hey+There!+👋;+You+can+call+me+Faldi!+😆;A+newgrad+ready+to+explore+🚀" />
+</h1>
 
-I'm a Frontend Developer focused on delivering modern designs and responsive interactions.
+<div align="center">
+    <img src="https://media.tenor.com/dHk-LfzHrtwAAAAj/linux-computer.gif" width="100">
+    <img src="https://www.gambaranimasi.org/data/media/56/animasi-bergerak-komputer-0028.gif" width="120">
+</div>
 
-- 🌱 I’m currently learning: Frontend Development
-- 📫 How to reach me: [Email](mailto:faldiansyahk@gmail.com)
-- ⚡ Fun fact: I used to be an Android Engineer
-- 🤔 I’m looking for a mentor to guide my professional growth
+<h2 align="center">Frontend Developer!</h2>
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) 
-![React](https://img.shields.io/badge/-React-blue?style=flat-square&logo=react) 
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) 
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) 
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+<img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" />
+</br>
 
-<!--
-**faldi17/faldi17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+🌱 I’m currently learning Fullstack and Mobile Development<br>
+👨🏻‍💻 Introvert (INTJ-T)<br>
+📫 How to reach me <a href="mailto:faldiansyahk@gmail.com">Email</a>
 
-Here are some ideas to get you started:
+## Equipment ⚒️
+<table>
+    <tr align="center">
+        <td>Operating System</td>
+        <td>
+          <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg" width="40" /> <br />
+          Mac OS
+        </td>
+        <td>
+          <img src="https://img.icons8.com/?size=48&id=TuXN3JNUBGOT&format=png" width="40" /> <br />
+          Windows
+        </td>
+        <td>
+          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" width="40" /> <br />
+          Linux
+        </td>
+    </tr>
+    <tr align="center">
+        <td>Text Editor</td>
+        <td>
+          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" width="40" /> <br />
+          Visual Studio
+        </td>
+        <td>
+          <img src="https://upload.wikimedia.org/wikipedia/fr/7/78/Sublime_text_logo.png" width="40" /> <br />
+          Sublime Text
+        </td>
+        <td>
+          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Android_Studio_Logo_2024.svg/1200px-Android_Studio_Logo_2024.svg.png" width="40" /> <br />
+          Android Studio
+        </td>
+    </tr>
+</table>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+
+## Tech Stack 💻
+
+### Frontend Development
+<img src="https://skillicons.dev/icons?i=react,bootstrap,vite,nodejs" />
+</br>
+<img src="https://skillicons.dev/icons?i=tailwind,vue,nextjs,laravel" />
+
+<hr>
+
+### Languages
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,php,python,kotlin,mysql" />
+
+<hr>
+
+### Deployment & Tools
+<img src="https://skillicons.dev/icons?i=vercel,github" />
+
+## Stats 🚀
+<p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faldi17&layout=compact&theme=tokyonight" height=163 />
+</p>
+
+</div>
+
+<br>
+
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=faldi17&theme=highcontrast" alt="faldi17" /></p>
