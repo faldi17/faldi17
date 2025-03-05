@@ -80,4 +80,4 @@
 
 <br>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=faldi17&theme=highcontrast" alt="faldi17" /></p>
+<p align="center"><img align="center" src="https://streak-stats.demolab.com/?user=faldi17&theme=holi-theme" alt="faldi17" /></p>
