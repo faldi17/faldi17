@@ -57,17 +57,17 @@
 ## Tech Stack 💻
 
 ### Frontend Development
-<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,nodejs,nextjs" />
+<img src="https://skillicons.dev/icons?i=react,vue,tailwind,bootstrap,nodejs,nextjs" />
 
 <hr>
 
-### Languages
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,python,mysql" />
+### Languages & DB
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,mongodb,mysql" />
 
 <hr>
 
 ### Deployment & Tools
-<img src="https://skillicons.dev/icons?i=vercel,github,vite" />
+<img src="https://skillicons.dev/icons?i=vercel,github,vite,postman,firebase" />
 
 ## Stats 🚀
 <p>
