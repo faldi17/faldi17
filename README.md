@@ -7,13 +7,13 @@
   <img src="computer/animasi-bergerak-komputer.gif" width="120">
 </div>
 
-<h2 align="center">Android Developer!</h2>
+<h2 align="center">Mobile Developer!</h2>
 
 <img src="wallpaper/wallpaper-dev.gif" />
 </br>
 
 <div align="center">
-  🌱 I’m currently learning Android Development and Artificial Intelligence<br>
+  🌱 I’m currently learning Mobile Development and Artificial Intelligence<br>
   👨🏻‍💻 Introvert (INTJ-T)<br>
   📫 How to reach me <a href="mailto:faldiansyahk@gmail.com">Email</a>
 
@@ -55,8 +55,8 @@
 <div align="center">
 
   ## Tech Stack 💻
-  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,tailwind,bootstrap,nodejs" /> <br />
-  <img src="https://skillicons.dev/icons?i=react,python,mongodb,mysql,js" />
+  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,tailwind,bootstrap,nodejs,react" /> <br />
+  <img src="https://skillicons.dev/icons?i=python,mongodb,mysql,js,dart,flutter" />
   
   ## Deployment & Tools
   <img src="https://skillicons.dev/icons?i=vercel,github,vite,postman,firebase" />
